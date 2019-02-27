@@ -1,6 +1,7 @@
 # Flutter Coding Diary
+First knowledge: Everything's a Widget
 
-## Widget(Layout/UI)
+## Commonly used Widget(Layout/UI)
 
 ### Scaffold
 
@@ -10,9 +11,19 @@
 
 ### ListView
 
-### StatefulWidget(Life Cycle)
+### Custom Widget
 
 ### Various combinations
+
+(BottomNavigationBar + PageView) on Scaffold
+
+(Tab + PageView) on Scaffold
+
+ListView behind the CustomView(TextField/Buttom/Other)
+
+### Knowledge points
+StatefulWidget(Life Cycle) and StatelessWidget
+
 
 ## Util
 
