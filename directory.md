@@ -11,6 +11,9 @@ First knowledge: Everything's a Widget
 
 ### ListView
 
+### TextField and TextFormField
+set keyboard next action not available? see the [solution](https://stackoverflow.com/a/52151733/7368747)
+
 ### Custom Widget
 
 ### Various combinations
